@@ -1,0 +1,62 @@
+/* ADD YOUR STYLES HERE */
+.noHeader {
+	width: 780px;
+}
+.noHeader tr td, .noHeader tr th {
+	width: auto;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-bottom: 1px solid #D5D5D6;
+}
+.followerTable {
+	border-bottom: 1px solid #D5D5D6;
+	border-top: 1px solid #D5D5D6;
+	width: 250px;
+
+}
+.followerTable tbody tr td {
+	width: auto;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align: center;
+}
+.largeNumber {
+	color: black;
+	font-weight: bold;
+	font-size: 32px;
+}
+.smallText {
+	color: #D5D5D6;
+	font-weight: bold;
+	font-size: 10px;
+}
+.barGraph {
+	width: 780px;
+}
+.barGraph tbody tr th {
+	width: 100px;
+	text-align: right;
+}
+.barGraph tbody tr td div {
+	vertical-align: center;
+	background-color: #6699FF;
+	color: white;
+	font-size: 12px;
+	padding-left: 5px;
+	height: 25px; 
+}
+.lightbox {
+	display: none;
+	background-color: white;
+	padding: 15px;
+	border-radius: 7px;
+
+}
+.lightbox div {
+	border-radius: 5px;
+	background-color: #FFA8A8;
+	color: white;
+	text-align: center;
+	vertical-align: right;
+	width: 50px;
+}
